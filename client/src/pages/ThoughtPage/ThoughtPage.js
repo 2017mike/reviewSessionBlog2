@@ -56,6 +56,7 @@ const ThoughtPage = () => {
   }
 
   const params = useParams()
+  console.log(params)
 
   return (
     <>
